@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.Api", "POC.Api\POC.Api.csproj", "{42160502-FE51-4CBD-959B-4ABB71CA8B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.UI", "POC.UI\POC.UI.csproj", "{009F6840-AD3F-4189-A064-E0B1D6218EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.Models", "POC.Models\POC.Models.csproj", "{FFE8316B-EE0E-4578-9B76-1C64EEF4654D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42160502-FE51-4CBD-959B-4ABB71CA8B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42160502-FE51-4CBD-959B-4ABB71CA8B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42160502-FE51-4CBD-959B-4ABB71CA8B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42160502-FE51-4CBD-959B-4ABB71CA8B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009F6840-AD3F-4189-A064-E0B1D6218EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009F6840-AD3F-4189-A064-E0B1D6218EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009F6840-AD3F-4189-A064-E0B1D6218EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009F6840-AD3F-4189-A064-E0B1D6218EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE8316B-EE0E-4578-9B76-1C64EEF4654D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE8316B-EE0E-4578-9B76-1C64EEF4654D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE8316B-EE0E-4578-9B76-1C64EEF4654D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE8316B-EE0E-4578-9B76-1C64EEF4654D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0F193BE-B9F3-4CF3-A238-173670EBBCB8}
+	EndGlobalSection
+EndGlobal
